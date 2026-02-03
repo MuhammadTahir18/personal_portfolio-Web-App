@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "157556679294",
+    "project_id": "myapp-878dc",
+    "storage_bucket": "myapp-878dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157556679294:android:8a87dc47a0ef939a632e2f",
+        "android_client_info": {
+          "package_name": "com.example.api_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQx2ckIhcWLNcDQFzGiLB_YPZ3PSVDfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157556679294:android:493013da1a59c458632e2f",
+        "android_client_info": {
+          "package_name": "com.firstproject.eyebutton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQx2ckIhcWLNcDQFzGiLB_YPZ3PSVDfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157556679294:android:e6650298b51a38e6632e2f",
+        "android_client_info": {
+          "package_name": "com.hiskytech.mytaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQx2ckIhcWLNcDQFzGiLB_YPZ3PSVDfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
