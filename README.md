@@ -52,3 +52,10 @@ clean architecture, and real-world app structure for portfolio and interviews.
 ## Author
 Muhammad Tahir
 Flutter & Android Developer
+
+![App Screenshot](https://github.com/MuhammadTahir18/personal_portfolio-Web-App/blob/34d75f467b6ffa41b30050e25b7011a799f09278/snap1.PNG)
+![App Screenshot](https://github.com/MuhammadTahir18/personal_portfolio-Web-App/blob/34d75f467b6ffa41b30050e25b7011a799f09278/snap2.PNG)
+![App Screenshot](https://github.com/MuhammadTahir18/personal_portfolio-Web-App/blob/34d75f467b6ffa41b30050e25b7011a799f09278/snap3.PNG)
+![App Screenshot](https://github.com/MuhammadTahir18/personal_portfolio-Web-App/blob/34d75f467b6ffa41b30050e25b7011a799f09278/snap4.PNG)
+![App Screenshot](https://github.com/MuhammadTahir18/personal_portfolio-Web-App/blob/34d75f467b6ffa41b30050e25b7011a799f09278/snap5.PNG)
+
